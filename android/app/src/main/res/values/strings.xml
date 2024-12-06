@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Ganzer Inventário</string>
+    <string name="title_activity_main">Ganzer Inventário</string>
+    <string name="package_name">com.ganzer.inventario</string>
+    <string name="custom_url_scheme">com.ganzer.inventario</string>
+</resources>

@@ -1,0 +1,9 @@
+{
+	"appId": "com.ganzer.inventario",
+	"appName": "Ganzer Inventário",
+	"webDir": "dist",
+	"server": {
+		"androidScheme": "https"
+	},
+	"android": {}
+}
